@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveLeft : MonoBehaviour
+public class MoveLeft : MonoBehaviour    
 
 {
     private float speed = 20;
